@@ -3,7 +3,7 @@
 
 Welcome to my personal portfolio website, showcasing my projects, skills, and contact information.
 
-![Website Screenshot]([Uploading image.png…]())!
+![Website Screenshot]([Portfolio.png…]())!
 
 
 ## Table of Contents
