@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    overflow-x: hidden;
+}
+.all{
+   @apply flex justify-center items-center;
+}
+.hoverimg{
+    @apply hover:scale-105 cursor-pointer transition-transform duration-300 border bg-white h-full rounded-2xl;
+}
+.font{
+    @apply text-7xl font-semibold uppercase
+}
